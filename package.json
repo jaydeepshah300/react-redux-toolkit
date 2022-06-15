@@ -1,0 +1,22 @@
+{
+  "name": "redux-toolkit-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydeepshah300/react-redux-toolkit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydeepshah300/react-redux-toolkit/issues"
+  },
+  "homepage": "https://github.com/jaydeepshah300/react-redux-toolkit#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2"
+  }
+}
