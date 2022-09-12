@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jaydeepshah300/react-redux-toolkit#readme",
   "dependencies": {
-    "@reduxjs/toolkit": "^1.8.2"
+    "@reduxjs/toolkit": "^1.8.2",
+    "axios": "^0.27.2",
+    "redux-logger": "^3.0.6"
   }
 }
